@@ -1,0 +1,6 @@
+colorama
+openai
+python-dotenv
+pytz
+Requests
+streamlit
